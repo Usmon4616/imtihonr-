@@ -1,0 +1,126 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.Korzina{
+  position: relative;
+  left: 1100px;
+}
+.divcha{
+  display: flex;
+  margin-left: 100px;
+}
+.rasm{
+  width: 70%;
+  border-radius: 100px;
+  margin: 20px;
+}
+.SALOM{
+  text-align: center;
+  padding: 50px;
+  color: green;
+}
+.Stylwe{
+  width: 250px;
+  height: 50px;
+  background-color:rgb(213, 213, 213);
+  display: flex;
+  position: relative;
+  margin: 20px;
+  border-radius: 10px;
+}
+.soz{
+  margin-left: 30px;
+  margin-top: 10px;
+}
+.iconca{
+  margin-top: 15px;
+  margin-left: 10px;
+}
+.row{
+  position: relative;
+  top: 100px;
+}
+.iconcam{
+  position: relative;
+  left: 200px;
+}
+.row1{
+  display: flex;
+}
+.kiy{
+  color: green;
+  margin-top: 50px;
+}
+.book{
+  width: 50px;
+  background-color: #61dafb;
+}
+.knopkala{
+  display: flex;
+}
+.qalesan{
+  border-style: inherit;
+  text-align: center;
+  margin: 10px;
+  background-color: #282c3415 ;
+  border-radius: 30px;
+}
+.ochir{
+  position: relative;
+  left: 90px;
+  bottom: 50px;
+}
+.ikkinchi{
+  position: relative;
+  left: 40px;
+  bottom: 25px;
+}
+.gap{
+  padding: 20px;
+}
+.qalesan1{
+  z-index: 1000;
+  width: 20%;
+  height: 100%;
+  background-color: #61dafb;
+}
+.zooorlekin{
+  position: relative;
+  left: 520px;
+  bottom: 30px;
+}
